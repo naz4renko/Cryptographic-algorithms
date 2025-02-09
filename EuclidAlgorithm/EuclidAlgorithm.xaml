@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="InfoSecurity.EuclidAlgorithm.EuclidAlgorithm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:InfoSecurity.EuclidAlgorithm"
+             mc:Ignorable="d" 
+              d:DesignHeight="534" d:DesignWidth="1000">
+    <Grid Background="Gray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="Число A" FontSize="18" FontFamily="Arial Black" Margin="40,5"/>
+                <TextBlock Text="Число B" FontSize="18" FontFamily="Arial Black" Margin="40,5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBox x:Name="NumberA" Height="30" Width="120" Margin="10,10" FontSize="16"/>
+                <TextBox x:Name="NumberB" Height="30" Width="120" Margin="10,10" FontSize="16"/>
+            </StackPanel>
+            
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="CalculateButton" Height="40" Width="120" Content="Рассчитать" HorizontalAlignment="Center" FontSize="16" FontFamily="Arial Black" Margin="10,10" Click="CalculateButton_Click"/>
+                <Button x:Name="ClearButton" Height="40" Width="120" Content="Очистить" HorizontalAlignment="Center" FontSize="16" FontFamily="Arial Black" Margin="10,10" Click="ClearButton_Click"/>
+
+            
+            </StackPanel>
+            <Button x:Name="GoTest" Content="Тестирование" Height="40" Width="150" FontSize="16" FontFamily="Arial Black" Margin="10,10" Click="GoTest_Click"/>
+
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TextBlock Text="НОД" FontSize="18" FontFamily="Arial Black" HorizontalAlignment="Center" Margin="10,10"/>
+            <TextBox x:Name="NOD1" Height="30" Width="300" HorizontalAlignment="Center" FontSize="16"/>
+            <TextBlock Text="Расширенный алгоритм" FontSize="18" FontFamily="Arial Black" HorizontalAlignment="Center" Margin="10,10"/>
+            <TextBox x:Name="NOD2" Height="30" Width="300" HorizontalAlignment="Center" FontSize="16"/>
+            <TextBlock Text="Обратное Число" FontSize="18" FontFamily="Arial Black" HorizontalAlignment="Center" Margin="10,10"/>
+            <TextBox x:Name="NOD3" Height="30" Width="300" HorizontalAlignment="Center" FontSize="16" />
+
+            <StackPanel Margin="20,20">
+                <DataGrid x:Name="TestDG" Height="200"  HorizontalAlignment="Center" AutoGenerateColumns="True"
+                ScrollViewer.CanContentScroll="True" 
+                ScrollViewer.VerticalScrollBarVisibility="Auto"
+                ScrollViewer.HorizontalScrollBarVisibility="Auto"/>
+            </StackPanel>
+        </StackPanel>
+        
+    </Grid>
+</UserControl>

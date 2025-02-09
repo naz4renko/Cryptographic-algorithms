@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="BinaryCipher\BinaryCipher.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CaesarCipher\CaesarCipher.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EuclidAlgorithm\EuclidAlgorithm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Knackpack\Knapsack.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LemhannTest\LemhannWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LFSR\GeneratorPSP.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VigTrithCardСipher\SymmetricCipher.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="BinaryCipher\BinaryCipher.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CaesarCipher\CaesarCipher.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EuclidAlgorithm\EuclidAlgorithm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Knackpack\Knapsack.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LemhannTest\LemhannWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LFSR\GeneratorPSP.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VigTrithCardСipher\SymmetricCipher.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

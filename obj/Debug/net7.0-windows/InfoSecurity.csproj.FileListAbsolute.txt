@@ -1,0 +1,161 @@
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.exe
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.deps.json
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.runtimeconfig.json
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.dll
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.pdb
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\User\Desktop\InfoSecurity\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.cache
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.lref
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.g.resources
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfo.cs
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.CopyComplete
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.dll
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\refint\InfoSecurity.dll
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.pdb
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.genruntimeconfig.cache
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\ref\InfoSecurity.dll
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\App.baml
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher.g.cs
+C:\Users\User\Desktop\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.exe
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.deps.json
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.runtimeconfig.json
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher\CaesarCipher.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.lref
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\App.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher\CaesarCipher.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.g.resources
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.CopyComplete
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\refint\InfoSecurity.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.genruntimeconfig.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\ref\InfoSecurity.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\VigTrithCardСipher\SymmetricCipher.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\VigTrithCardСipher\SymmetricCipher.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\BinaryCipher\BinaryCipher.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\BinaryCipher\BinaryCipher.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\EuclidAlgorithm\EuclidAlgorithm.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\EuclidAlgorithm\EuclidAlgorithm.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LemhannTest\LemhannWindow.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LemhannTest\LemhannWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\Knackpack\Knapsack.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\Knackpack\Knapsack.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LFSR\GeneratorPSP.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LFSR\GeneratorPSP.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.exe
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.deps.json
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.runtimeconfig.json
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.pdb
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.AssemblyReference.cache
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\BinaryCipher\BinaryCipher.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher\CaesarCipher.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\EuclidAlgorithm\EuclidAlgorithm.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\Knackpack\Knapsack.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LemhannTest\LemhannWindow.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LFSR\GeneratorPSP.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\VigTrithCardСipher\SymmetricCipher.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\App.g.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.cache
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.lref
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\App.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\BinaryCipher\BinaryCipher.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher\CaesarCipher.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\EuclidAlgorithm\EuclidAlgorithm.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\Knackpack\Knapsack.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LemhannTest\LemhannWindow.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\LFSR\GeneratorPSP.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\VigTrithCardСipher\SymmetricCipher.baml
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.g.resources
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfoInputs.cache
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfo.cs
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.CopyComplete
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\refint\InfoSecurity.dll
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.pdb
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.genruntimeconfig.cache
+D:\Учёба\3 курс 2 семестр\Инф.Безопасность (Петров)\InfoSecurity\obj\Debug\net7.0-windows\ref\InfoSecurity.dll
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.exe
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.deps.json
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.runtimeconfig.json
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.dll
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\InfoSecurity.pdb
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+D:\GITHUB\InfoSecurity\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.AssemblyReference.cache
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\BinaryCipher\BinaryCipher.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher\CaesarCipher.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\EuclidAlgorithm\EuclidAlgorithm.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\Knackpack\Knapsack.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\LemhannTest\LemhannWindow.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\LFSR\GeneratorPSP.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\VigTrithCardСipher\SymmetricCipher.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\App.g.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.cache
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity_MarkupCompile.lref
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\App.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\BinaryCipher\BinaryCipher.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\CaesarCipher\CaesarCipher.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\EuclidAlgorithm\EuclidAlgorithm.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\Knackpack\Knapsack.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\LemhannTest\LemhannWindow.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\LFSR\GeneratorPSP.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\MainWindow.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\VigTrithCardСipher\SymmetricCipher.baml
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.g.resources
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfoInputs.cache
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.AssemblyInfo.cs
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.csproj.CoreCompileInputs.cache
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.sourcelink.json
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecu.541C8EE4.Up2Date
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.dll
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\refint\InfoSecurity.dll
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.pdb
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\InfoSecurity.genruntimeconfig.cache
+D:\GITHUB\InfoSecurity\obj\Debug\net7.0-windows\ref\InfoSecurity.dll

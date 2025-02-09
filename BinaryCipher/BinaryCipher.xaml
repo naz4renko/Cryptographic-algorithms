@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="InfoSecurity.BinaryCipher.BinaryCipher"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:InfoSecurity.BinaryCipher"
+             mc:Ignorable="d" 
+             d:DesignHeight="534" d:DesignWidth="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="0">
+            <TextBlock Text="Введите сообщение" FontSize="20" FontFamily="Arial Black" Margin="0,10" HorizontalAlignment="Center"/>
+            <TextBox x:Name="WorkMessage" Height="30" Width="250" Margin="0,10"/>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="EncryptMessageButton" Height="40" Width="115" Content="Закодировать" FontSize="14" FontFamily="Arial Black" Margin="10,10" Click="EncryptMessageButton_Click"/>
+                <Button x:Name="DecryptMessageButton" Height="40" Width="115" Content="Декодировать" FontSize="14" FontFamily="Arial Black" Margin="10,10" Click="DecryptMessageButton_Click"/>
+            </StackPanel>
+            <TextBlock Text="Результат" FontSize="20" FontFamily="Arial Black" Margin="0,10" HorizontalAlignment="Center"/>
+            <TextBox x:Name="ResultMessage" Height="30" Width="250" Margin="0,10"/>
+            <Button x:Name="ReadFileButton" Content="Загрузить файл" FontFamily="Arial Black" Height="30" Width="200" Margin="5,5" Click="ReadFileButton_Click"/>
+            <Button x:Name="SaveFileButton" Content="Сохранить в файл" FontFamily="Arial Black" Height="30" Width="200" Margin="5,5" Click="SaveFileButton_Click"/>
+            <Button x:Name="ClearButton" Content="Очистить" Height="30" Width="100" Margin="0,20" FontFamily="Arial Black" Click="ClearButton_Click"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Column="1" Margin="0,10">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+                <TextBlock Text="Промежуточные результаты" FontSize="20" FontFamily="Arial Black" Margin="0,10" HorizontalAlignment="Center"/>
+                <ScrollViewer Height="Auto" VerticalScrollBarVisibility="Auto">
+                    <DataGrid x:Name="ResultsDG"/>
+                </ScrollViewer>
+            </StackPanel>
+            
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+                <TextBlock Text="Зашифрованные символы" FontSize="20" FontFamily="Arial Black" Margin="0,10" HorizontalAlignment="Center"/>
+                <ScrollViewer Height="Auto" VerticalScrollBarVisibility="Auto">
+                    <DataGrid x:Name="Results2DG"/>
+                </ScrollViewer>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

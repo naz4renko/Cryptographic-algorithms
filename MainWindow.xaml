@@ -1,0 +1,29 @@
+﻿<Window x:Class="InfoSecurity.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InfoSecurity"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Информационная безопасность" Height="600" Width="1000 ">
+    <Grid Background="#FFADABAB">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <UserControl x:Name="UserController" Grid.Row="1"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="2" Background="#FF323232"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="CaesarButton"    Content="Шифр Цезаря" Background="Transparent" Foreground="White" FontFamily="Arial Black" FontSize="20" Margin="10,0" Click="CaesarButton_Click" />
+            <Button x:Name="SymmetricButton" Content="Симм.Шифр"   Background="Transparent" Foreground="White" FontFamily="Arial Black" FontSize="20" Margin="10,0" Click="SymmetricButton_Click"/>
+            <Button x:Name="BinaryButton"    Content="Побитовое"   Background="Transparent" Foreground="White" FontFamily="Arial Black" FontSize="20" Margin="10,0" Click="BinaryButton_Click"/>
+            <Button x:Name="EuclidButton"    Content="Евклид"      Background="Transparent" Foreground="White" FontFamily="Arial Black" FontSize="20" Margin="10,0" Click="EuclidButton_Click"/>
+            <Button x:Name="LemhannButton"    Content="Простые"      Background="Transparent" Foreground="White" FontFamily="Arial Black" FontSize="20" Margin="10,0" Click="LemhannButton_Click" />
+            <Button x:Name="KnackpackButton"    Content="Ассиметр"      Background="Transparent" Foreground="White" FontFamily="Arial Black" FontSize="20" Margin="10,0" Click="KnackpackButton_Click"/>
+            <Button x:Name="GeneratorButton"    Content="ПСП"      Background="Transparent" Foreground="White" FontFamily="Arial Black" FontSize="20" Margin="10,0" Click="GeneratorButton_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
